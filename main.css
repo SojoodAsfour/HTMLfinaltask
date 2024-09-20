@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    font-family: "Roboto Slab", serif;
+}
+h1{
+    font-family: "Dancing Script", cursive;
+}
+.navbar-brand{
+    font-family: "Dancing Script", cursive;
+    font-weight: 300;
+}
+.carousel-item {
+    background-color: #424e9c;
+}
+.iphone{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items:center ;
+}
+.iphone h1{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+.card-img-top{
+    width: 50%;
+    height: 30%;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 60%;
+}
+.col{
+    height: 60%;
+}
+.ipad{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items:center ;
+}
+.ipad h1{
+    padding-top:100px ;
+    padding-bottom: 40px;
+}
+.watch{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items:center ;
+}
+.watch h1{
+    padding-top: 100px ;
+    padding-bottom: 40px;
+}
