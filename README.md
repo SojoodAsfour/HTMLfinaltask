@@ -39,9 +39,5 @@ Contributions are welcome! If you find any issues or want to enhance the project
 Fork the repository
 Open an issue to report bugs or suggest features
 Submit a pull request with improvements
-## 📬 Contact:
-For any questions or feedback, please reach out to me:
 
-GitHub: SojoodAsfour
-Email: sojoodasfour@example.com
 ## 🎉 Thank you for checking out this project! 😊
